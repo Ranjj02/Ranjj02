@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ranjana</h1>
-<h3 align="center">A curious individul passionate about machine learning </h3>
+<h3 align="center">A curious individual passionate about machine learning </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
